@@ -6,4 +6,4 @@ BYou is an online marketplace where people can sell their handmade objects. The 
 
 I used React for the Front-end and Java SpringBoot for the Back-end. In addition, I make API calls to SendGrid to get notified whenever someone wants to buy something from you.
 
-![Diagram](https://github.com/CosminIlies/Byou_E-marketplace/tree/main/Diagram.png "Diagram")
+![Diagram](Diagram.png "Diagram")
