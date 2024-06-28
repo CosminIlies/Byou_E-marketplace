@@ -1,0 +1,42 @@
+
+##########API_KEYS##########
+api_keys.txt
+
+
+##########JAVA IDEA##########
+/HandmadeMarketplacev0.1/HELP.md
+/HandmadeMarketplacev0.1/target/
+!/HandmadeMarketplacev0.1/.mvn/wrapper/maven-wrapper.jar
+!/HandmadeMarketplacev0.1/**/src/main/**/target/
+!/HandmadeMarketplacev0.1/**/src/test/**/target/
+
+### STS ###
+/HandmadeMarketplacev0.1/.apt_generated
+/HandmadeMarketplacev0.1/.classpath
+/HandmadeMarketplacev0.1/.factorypath
+/HandmadeMarketplacev0.1/.project
+/HandmadeMarketplacev0.1/.settings
+/HandmadeMarketplacev0.1/.springBeans
+/HandmadeMarketplacev0.1/.sts4-cache
+
+### IntelliJ IDEA ###
+/HandmadeMarketplacev0.1/.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/HandmadeMarketplacev0.1/nbproject/private/
+/HandmadeMarketplacev0.1/nbbuild/
+/HandmadeMarketplacev0.1/dist/
+/HandmadeMarketplacev0.1/nbdist/
+/HandmadeMarketplacev0.1/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+/HandmadeMarketplacev0.1/.vscode/
+
+
+
